@@ -1,0 +1,12 @@
+E:\secureSoftware\lab1D\lab1E\bin\Debug\netcoreapp2.0\lab1E.deps.json
+E:\secureSoftware\lab1D\lab1E\bin\Debug\netcoreapp2.0\lab1E.runtimeconfig.json
+E:\secureSoftware\lab1D\lab1E\bin\Debug\netcoreapp2.0\lab1E.runtimeconfig.dev.json
+E:\secureSoftware\lab1D\lab1E\bin\Debug\netcoreapp2.0\lab1E.dll
+E:\secureSoftware\lab1D\lab1E\bin\Debug\netcoreapp2.0\lab1E.pdb
+E:\secureSoftware\lab1D\lab1E\obj\Debug\netcoreapp2.0\lab1E.csprojResolveAssemblyReference.cache
+E:\secureSoftware\lab1D\lab1E\obj\Debug\netcoreapp2.0\lab1E.csproj.CoreCompileInputs.cache
+E:\secureSoftware\lab1D\lab1E\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+E:\secureSoftware\lab1D\lab1E\obj\Debug\netcoreapp2.0\lab1E.AssemblyInfoInputs.cache
+E:\secureSoftware\lab1D\lab1E\obj\Debug\netcoreapp2.0\lab1E.AssemblyInfo.cs
+E:\secureSoftware\lab1D\lab1E\obj\Debug\netcoreapp2.0\lab1E.dll
+E:\secureSoftware\lab1D\lab1E\obj\Debug\netcoreapp2.0\lab1E.pdb
